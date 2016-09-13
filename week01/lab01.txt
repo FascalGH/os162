@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 pascal.galih StafCS 4096 Sep 13 09:52 .
+drwx--x--x  4 pascal.galih StafCS 4096 Sep 13 09:49 ..
+drwxr-xr-x  8 pascal.galih StafCS 4096 Sep 13 09:50 .git
+-rw-r--r--  1 pascal.galih StafCS    0 Sep 13 09:52 lab01.txt
+-rw-r--r--  1 pascal.galih StafCS    7 Sep  7 15:36 README.md
+drwxr-xr-x  2 pascal.galih StafCS 4096 Sep 13 09:31 SandBox
+drwxr-xr-x  2 pascal.galih StafCS 4096 Sep 13 09:49 week00
+drwxr-xr-x  2 pascal.galih StafCS 4096 Sep 13 09:19 week01
+drwxr-xr-x  2 pascal.galih StafCS 4096 Sep 13 09:23 week02
+drwxr-xr-x  2 pascal.galih StafCS 4096 Sep 13 09:24 week03
+drwxr-xr-x  2 pascal.galih StafCS 4096 Sep 13 09:24 week04
+drwxr-xr-x  2 pascal.galih StafCS 4096 Sep 13 09:24 week05
+drwxr-xr-x  2 pascal.galih StafCS 4096 Sep 13 09:24 week06
+drwxr-xr-x  2 pascal.galih StafCS 4096 Sep 13 09:25 week07
+drwxr-xr-x  2 pascal.galih StafCS 4096 Sep 13 09:25 week08
+drwxr-xr-x  2 pascal.galih StafCS 4096 Sep 13 09:25 week09
+drwxr-xr-x  2 pascal.galih StafCS 4096 Sep 13 09:25 week10
+/home/fasilkom/mahasiswa/p/pascal.galih/os162/week01
