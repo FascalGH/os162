@@ -17,3 +17,6 @@ drwxr-xr-x  2 pascal.galih StafCS 4096 Sep 13 09:25 week08
 drwxr-xr-x  2 pascal.galih StafCS 4096 Sep 13 09:25 week09
 drwxr-xr-x  2 pascal.galih StafCS 4096 Sep 13 09:25 week10
 /home/fasilkom/mahasiswa/p/pascal.galih/os162/week01
+Today is d Sep 2016 at 10:11:19
+Today is d Sep 2016 at 10:12:22
+Today is 13 Sep 2016 at 10:14:54
