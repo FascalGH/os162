@@ -1,0 +1,4 @@
+Task CLI, GIT, AND SCRIPTING
+
+Pada task week 1 ini kita melakukan clone repository github kedalam server badak.
+Kemudian membuat beberapa directory dengan fungsi "mkdir". Membuah file kosong dengan fungsi "touch". Melakukan push dan pull pada github. Mempraktekan CLI dengan menjalankan beberapa instruksi. Melakukan scripting sederhana.
