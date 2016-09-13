@@ -1,0 +1,15 @@
+Terdapat 2 Task pada week 0.
+
+-Task 0:
+Melakukan perkenalan dengan menuliskan sebuah greeting di forum.
+" Hello, I'm #Fascal. Nice to meet you all."
+
+
+-Task 1:
+
+1. Membuat akun Google
+2. Membuat akun GitHub
+3. Membuat repository pada GitHub
+4. Login dengan akun Google dan mengisikan form data di googledocs
+5. Mengecek status submission
+6. Login ke server "badak.cs.ui.ac.id" dengan SSH
